@@ -1,6 +1,6 @@
 package com.inforamtics.schoolmanagment.data.Entity;
 
-import lombok.*
+
 
 import jakarta.persistence.Entity;
 import jakarta.persistence.GeneratedValue;
