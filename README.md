@@ -1,5 +1,5 @@
 # School_Management
-Spring Boot School Management Project 
+Spring Boot School Management Project with Thymeleaf
 
 Project developed during CSCB869 Java Web Services uni course 
 
